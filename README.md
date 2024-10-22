@@ -1,6 +1,6 @@
 # URSS2024
 
-This code is for an URSS 2024 research project, detailed of the information would be provided in:(TO BE UPDATED)
+This is a replication package for an URSS 2024 research project, detailed of the information would be provided in:(TO BE UPDATED)
 
 ## YouTube API Scraper and Comment Analyzer
 
